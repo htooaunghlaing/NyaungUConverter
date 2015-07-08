@@ -1,0 +1,46 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ScrollView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/sw_layout"
+        android:layout_above="@+id/footer"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/txtOutputDetail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginLeft="4dp"
+            android:scrollbars="vertical"
+            android:text="sample"
+            android:textColor="#000000" />
+
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:padding="4dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btnCopyDetail"
+            android:layout_width="220dp"
+            android:layout_height="44dp"
+            android:layout_gravity="center"
+            android:background="@drawable/flat_selector"
+            android:text="Copy"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</RelativeLayout>

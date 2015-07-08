@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@color/white">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        ></include>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10.0dip"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_logo"/>
+
+    <TextView
+        android:id="@+id/version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="?android:attr/selectableItemBackground"
+        tools:text="Nyaung U Converter Version 1.1"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="3dp">
+        <ImageButton
+            android:id="@+id/fb"
+            android:layout_width="55.0dip"
+            android:layout_height="55.0dip"
+            android:layout_below="@+id/myapp"
+            android:layout_marginBottom="-4.0dip"
+            android:layout_toLeftOf="@+id/share"
+            android:layout_toStartOf="@+id/share"
+            android:contentDescription="Like on Facebook"
+            android:src="@mipmap/ic_facebook"
+            style="?android:borderlessButtonStyle" />
+
+        <ImageButton
+            android:id="@+id/share"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="48.0dip"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/txtLove"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="Share"
+            android:src="@mipmap/ic_connect" />
+
+        <ImageButton
+            android:id="@+id/email"
+            android:layout_width="55.0dip"
+            android:layout_height="55.0dip"
+            android:layout_below="@+id/myapp"
+            android:layout_marginBottom="-4.0dip"
+            android:layout_toEndOf="@+id/share"
+            android:layout_toRightOf="@+id/share"
+            android:contentDescription="Feedback"
+            android:src="@mipmap/ic_feedback"
+            style="?android:borderlessButtonStyle" />
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/txtLove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="sans-serif-light"
+        android:text="Made with LOVE by @htooaunghlaing"/>
+    <TextView
+        android:id="@+id/open_source"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="@color/ColorPrimary"
+        android:text="Open Source Licenses"/>
+</LinearLayout>

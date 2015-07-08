@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="${relativePackage}.${activityClass}"
+    >
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        ></include>
+    <Button
+        android:id="@+id/btnMsg"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/flat_selector"
+
+        android:fontFamily="sans-serif-light"
+        android:text="Stop"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnStartService"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/btnMsg"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/flat_selector"
+
+        android:fontFamily="sans-serif-light"
+        android:text="Start"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+</RelativeLayout>
