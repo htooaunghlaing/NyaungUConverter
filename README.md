@@ -5,8 +5,9 @@ Floating font converter (Facebook Chat head style) between Myanmar Unicode and Z
 [![Get it On Play Store](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.hah.nyaungu.converter)
 
 ## Credit
-    - [Paytan Font Converter](https://github.com/trhura/paytan)
-    - Ko Ravi and [Kanaung](https://github.com/MMAUG/Kanaung) for Font Detection.
+
+- [Paytan Font Converter](https://github.com/trhura/paytan)
+- Ko Ravi and [Kanaung](https://github.com/MMAUG/Kanaung) for Font Detection.
 
 ## Contributing
 
