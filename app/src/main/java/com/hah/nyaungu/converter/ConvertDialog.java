@@ -85,7 +85,7 @@ public class ConvertDialog extends Activity {
             }
         }
         //detect process
-        int intDetect = Converter.detector(strClipBoardText);
+        int intDetect = Detector.detector(strClipBoardText);
         if (intDetect == 2) {
             //Toast.makeText(getApplicationContext(), "Input is Zawgyi", Toast.LENGTH_SHORT).show();
             //
@@ -177,7 +177,7 @@ public class ConvertDialog extends Activity {
             @Override
             public void onClick(View arg0) {
                 if (flag == 1) {
-                    if (Converter.detector(input.getText().toString().trim()) == 2) {
+                    if (Detector.detector(input.getText().toString().trim()) == 2) {
                         Toast.makeText(ConvertDialog.this,
                                 "Convert Zawgyi to Unicode", Toast.LENGTH_SHORT)
                                 .show();
@@ -191,7 +191,7 @@ public class ConvertDialog extends Activity {
 
                 }
                 if (flag == 2) {
-                    if (Converter.detector(input.getText().toString().trim()) == 1) {
+                    if (Detector.detector(input.getText().toString().trim()) == 1) {
                         Toast.makeText(ConvertDialog.this,
                                 "Convert Unicode to Zawgyi", Toast.LENGTH_SHORT)
                                 .show();
@@ -273,7 +273,7 @@ public class ConvertDialog extends Activity {
 
     private void changeZawgyi(String str) {
         txtOutput.setTypeface(zawgyiFace);
-        tmpTextZG = Converter.uni2zg(str);
+        tmpTextZG = Detector.uni2zg(str);
 
         int size = tmpTextZG.length();
 
@@ -303,7 +303,7 @@ public class ConvertDialog extends Activity {
     protected void changeUni(String str) {
 
         txtOutput.setTypeface(uniFace);
-        tmpTextUNI = Converter.zg2uni(str);
+        tmpTextUNI = Detector.zg2uni(str);
         // txtOutput.setText(tmpText);
 
         int size = tmpTextUNI.length();

@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * Created by htooaunghlaing on 6/23/15.
  */
-public class Converter {
+public class Detector {
 
     public static int detector(String string) {
         //if (!string.matches("[\\u1000-\\u1097]")) {

@@ -33,7 +33,7 @@ public class AboutActivity extends ActionBarActivity {
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mToolbar);
-        getSupportActionBar().setTitle("About Nyaung U Converter");
+        getSupportActionBar().setTitle("About Nyaung U Detector");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         getIDs();
@@ -74,7 +74,7 @@ public class AboutActivity extends ActionBarActivity {
                 Email.putExtra(Intent.EXTRA_EMAIL,
                         new String[]{"htooaunghlaing1@gmail.com"});
                 Email.putExtra(Intent.EXTRA_SUBJECT,
-                        "Feedback for Nyaung U Converter App");
+                        "Feedback for Nyaung U Detector App");
                 Email.putExtra(Intent.EXTRA_TEXT, "Dear Htoo Aung Hlaing," + "");
                 startActivity(Intent.createChooser(Email, "Send Feedback:"));
             }

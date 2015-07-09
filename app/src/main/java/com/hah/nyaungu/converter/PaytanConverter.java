@@ -1,5 +1,5 @@
 // Zawgyi<>Unicode converter python module
-// Based on rules from Parabaik Myanmar Text Converter
+// Based on rules from Parabaik Myanmar Text Detector
 // Copyright (C) 2014 Ngwe Tun (Solveware Solution)
 // Copyright (C) 2014 Ye Mon Kyaw
 
@@ -266,7 +266,7 @@ public class PaytanConverter {
         public String files[];
 
         public Option handleArguments(String argv[]) {
-            ArgumentParser parser = ArgumentParsers.newArgumentParser("Converter")
+            ArgumentParser parser = ArgumentParsers.newArgumentParser("Detector")
                     .defaultHelp(true)
                     .description("Convert Zawgyi <-> Unicode encodings.");
 

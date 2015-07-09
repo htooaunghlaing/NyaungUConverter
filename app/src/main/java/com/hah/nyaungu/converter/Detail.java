@@ -36,7 +36,7 @@ public class Detail extends Activity {
         // TODO Auto-generated method stub
         Bundle bundle = getIntent().getExtras();
         String detail = bundle.getString("outputDetail");
-        int detect = Converter.detector(detail);
+        int detect = Detector.detector(detail);
         if (detect == 1) {
             txtDetail.setTypeface(uniFace);
         } else if (detect == 2) {
