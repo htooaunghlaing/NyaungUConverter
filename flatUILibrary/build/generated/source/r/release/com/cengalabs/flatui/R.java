@@ -232,72 +232,72 @@ containing a value of this type.
         public static int fl_touchEffect=0x7f010009;
     }
     public static final class color {
-        public static int blood_dark=0x7f040000;
-        public static int blood_darker=0x7f040001;
-        public static int blood_light=0x7f040002;
-        public static int blood_primary=0x7f040003;
-        public static int blossom_dark=0x7f040004;
-        public static int blossom_darker=0x7f040005;
-        public static int blossom_light=0x7f040006;
-        public static int blossom_primary=0x7f040007;
-        public static int candy_dark=0x7f040008;
-        public static int candy_darker=0x7f040009;
-        public static int candy_light=0x7f04000a;
-        public static int candy_primary=0x7f04000b;
-        public static int dark_dark=0x7f04000c;
-        public static int dark_darker=0x7f04000d;
-        public static int dark_light=0x7f04000e;
-        public static int dark_primary=0x7f04000f;
-        public static int deep_dark=0x7f040010;
-        public static int deep_darker=0x7f040011;
-        public static int deep_light=0x7f040012;
-        public static int deep_primary=0x7f040013;
-        public static int grape_dark=0x7f040014;
-        public static int grape_darker=0x7f040015;
-        public static int grape_light=0x7f040016;
-        public static int grape_primary=0x7f040017;
-        public static int grass_dark=0x7f040018;
-        public static int grass_darker=0x7f040019;
-        public static int grass_light=0x7f04001a;
-        public static int grass_primary=0x7f04001b;
-        public static int orange_dark=0x7f04001c;
-        public static int orange_darker=0x7f04001d;
-        public static int orange_light=0x7f04001e;
-        public static int orange_primary=0x7f04001f;
-        public static int sand_dark=0x7f040020;
-        public static int sand_darker=0x7f040021;
-        public static int sand_light=0x7f040022;
-        public static int sand_primary=0x7f040023;
-        public static int sea_dark=0x7f040024;
-        public static int sea_darker=0x7f040025;
-        public static int sea_light=0x7f040026;
-        public static int sea_primary=0x7f040027;
-        public static int sky_dark=0x7f040028;
-        public static int sky_darker=0x7f040029;
-        public static int sky_light=0x7f04002a;
-        public static int sky_primary=0x7f04002b;
-        public static int snow_dark=0x7f04002c;
-        public static int snow_darker=0x7f04002d;
-        public static int snow_light=0x7f04002e;
-        public static int snow_primary=0x7f04002f;
+        public static int blood_dark=0x7f030000;
+        public static int blood_darker=0x7f030001;
+        public static int blood_light=0x7f030002;
+        public static int blood_primary=0x7f030003;
+        public static int blossom_dark=0x7f030004;
+        public static int blossom_darker=0x7f030005;
+        public static int blossom_light=0x7f030006;
+        public static int blossom_primary=0x7f030007;
+        public static int candy_dark=0x7f030008;
+        public static int candy_darker=0x7f030009;
+        public static int candy_light=0x7f03000a;
+        public static int candy_primary=0x7f03000b;
+        public static int dark_dark=0x7f03000c;
+        public static int dark_darker=0x7f03000d;
+        public static int dark_light=0x7f03000e;
+        public static int dark_primary=0x7f03000f;
+        public static int deep_dark=0x7f030010;
+        public static int deep_darker=0x7f030011;
+        public static int deep_light=0x7f030012;
+        public static int deep_primary=0x7f030013;
+        public static int grape_dark=0x7f030014;
+        public static int grape_darker=0x7f030015;
+        public static int grape_light=0x7f030016;
+        public static int grape_primary=0x7f030017;
+        public static int grass_dark=0x7f030018;
+        public static int grass_darker=0x7f030019;
+        public static int grass_light=0x7f03001a;
+        public static int grass_primary=0x7f03001b;
+        public static int orange_dark=0x7f03001c;
+        public static int orange_darker=0x7f03001d;
+        public static int orange_light=0x7f03001e;
+        public static int orange_primary=0x7f03001f;
+        public static int sand_dark=0x7f030020;
+        public static int sand_darker=0x7f030021;
+        public static int sand_light=0x7f030022;
+        public static int sand_primary=0x7f030023;
+        public static int sea_dark=0x7f030024;
+        public static int sea_darker=0x7f030025;
+        public static int sea_light=0x7f030026;
+        public static int sea_primary=0x7f030027;
+        public static int sky_dark=0x7f030028;
+        public static int sky_darker=0x7f030029;
+        public static int sky_light=0x7f03002a;
+        public static int sky_primary=0x7f03002b;
+        public static int snow_dark=0x7f03002c;
+        public static int snow_darker=0x7f03002d;
+        public static int snow_light=0x7f03002e;
+        public static int snow_primary=0x7f03002f;
     }
     public static final class id {
-        public static int box=0x7f030006;
-        public static int fl_box=0x7f030009;
-        public static int fl_dark=0x7f030001;
-        public static int fl_darker=0x7f03000b;
-        public static int fl_ease=0x7f030003;
-        public static int fl_flat=0x7f030008;
-        public static int fl_light=0x7f030002;
-        public static int fl_main=0x7f03000c;
-        public static int fl_none=0x7f030000;
-        public static int fl_ripple=0x7f030004;
-        public static int fl_transparent=0x7f03000a;
-        public static int flat=0x7f030005;
-        public static int transparent=0x7f030007;
+        public static int box=0x7f050005;
+        public static int fl_box=0x7f050008;
+        public static int fl_dark=0x7f050000;
+        public static int fl_darker=0x7f05000b;
+        public static int fl_ease=0x7f050003;
+        public static int fl_flat=0x7f050009;
+        public static int fl_light=0x7f050001;
+        public static int fl_main=0x7f05000c;
+        public static int fl_none=0x7f050002;
+        public static int fl_ripple=0x7f050004;
+        public static int fl_transparent=0x7f05000a;
+        public static int flat=0x7f050006;
+        public static int transparent=0x7f050007;
     }
     public static final class string {
-        public static int app_name=0x7f050000;
+        public static int app_name=0x7f040000;
     }
     public static final class styleable {
         /** Attributes that can be used with a fl_FlatAutoCompleteTextView.
@@ -351,7 +351,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_autoFieldStyle
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_autoFieldStyle = 7;
+        public static int fl_FlatAutoCompleteTextView_fl_autoFieldStyle = 7;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_borderWidth}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -367,7 +367,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_borderWidth
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_borderWidth = 0;
+        public static int fl_FlatAutoCompleteTextView_fl_borderWidth = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_cornerRadius}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -383,7 +383,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_cornerRadius
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_cornerRadius = 1;
+        public static int fl_FlatAutoCompleteTextView_fl_cornerRadius = 1;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontExtension}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -397,7 +397,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontExtension
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_fontExtension = 2;
+        public static int fl_FlatAutoCompleteTextView_fl_fontExtension = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontFamily}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -411,7 +411,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontFamily
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_fontFamily = 3;
+        public static int fl_FlatAutoCompleteTextView_fl_fontFamily = 3;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontWeight}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -425,7 +425,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontWeight
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_fontWeight = 4;
+        public static int fl_FlatAutoCompleteTextView_fl_fontWeight = 4;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_textAppearance}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -449,7 +449,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_textAppearance
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_textAppearance = 5;
+        public static int fl_FlatAutoCompleteTextView_fl_textAppearance = 5;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatAutoCompleteTextView} array.
@@ -459,7 +459,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatAutoCompleteTextView_fl_theme = 6;
+        public static int fl_FlatAutoCompleteTextView_fl_theme = 6;
         /** Attributes that can be used with a fl_FlatButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -503,7 +503,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_blockButtonEffectHeight
         */
-        public static final int fl_FlatButton_fl_blockButtonEffectHeight = 7;
+        public static int fl_FlatButton_fl_blockButtonEffectHeight = 7;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_cornerRadius}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -519,7 +519,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_cornerRadius
         */
-        public static final int fl_FlatButton_fl_cornerRadius = 0;
+        public static int fl_FlatButton_fl_cornerRadius = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontExtension}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -533,7 +533,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontExtension
         */
-        public static final int fl_FlatButton_fl_fontExtension = 1;
+        public static int fl_FlatButton_fl_fontExtension = 1;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontFamily}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -547,7 +547,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontFamily
         */
-        public static final int fl_FlatButton_fl_fontFamily = 2;
+        public static int fl_FlatButton_fl_fontFamily = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontWeight}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -561,7 +561,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontWeight
         */
-        public static final int fl_FlatButton_fl_fontWeight = 3;
+        public static int fl_FlatButton_fl_fontWeight = 3;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_textAppearance}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -585,7 +585,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_textAppearance
         */
-        public static final int fl_FlatButton_fl_textAppearance = 4;
+        public static int fl_FlatButton_fl_textAppearance = 4;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -595,7 +595,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatButton_fl_theme = 5;
+        public static int fl_FlatButton_fl_theme = 5;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_touchEffect}
           attribute's value can be found in the {@link #fl_FlatButton} array.
@@ -619,7 +619,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_touchEffect
         */
-        public static final int fl_FlatButton_fl_touchEffect = 6;
+        public static int fl_FlatButton_fl_touchEffect = 6;
         /** Attributes that can be used with a fl_FlatCheckBox.
            <p>Includes the following attributes:</p>
            <table>
@@ -661,7 +661,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_cornerRadius
         */
-        public static final int fl_FlatCheckBox_fl_cornerRadius = 0;
+        public static int fl_FlatCheckBox_fl_cornerRadius = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_dotMargin}
           attribute's value can be found in the {@link #fl_FlatCheckBox} array.
@@ -677,7 +677,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_dotMargin
         */
-        public static final int fl_FlatCheckBox_fl_dotMargin = 1;
+        public static int fl_FlatCheckBox_fl_dotMargin = 1;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontExtension}
           attribute's value can be found in the {@link #fl_FlatCheckBox} array.
@@ -691,7 +691,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontExtension
         */
-        public static final int fl_FlatCheckBox_fl_fontExtension = 2;
+        public static int fl_FlatCheckBox_fl_fontExtension = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontFamily}
           attribute's value can be found in the {@link #fl_FlatCheckBox} array.
@@ -705,7 +705,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontFamily
         */
-        public static final int fl_FlatCheckBox_fl_fontFamily = 3;
+        public static int fl_FlatCheckBox_fl_fontFamily = 3;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontWeight}
           attribute's value can be found in the {@link #fl_FlatCheckBox} array.
@@ -719,7 +719,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontWeight
         */
-        public static final int fl_FlatCheckBox_fl_fontWeight = 4;
+        public static int fl_FlatCheckBox_fl_fontWeight = 4;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_size}
           attribute's value can be found in the {@link #fl_FlatCheckBox} array.
@@ -735,7 +735,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_size
         */
-        public static final int fl_FlatCheckBox_fl_size = 5;
+        public static int fl_FlatCheckBox_fl_size = 5;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatCheckBox} array.
@@ -745,7 +745,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatCheckBox_fl_theme = 6;
+        public static int fl_FlatCheckBox_fl_theme = 6;
         /** Attributes that can be used with a fl_FlatEditText.
            <p>Includes the following attributes:</p>
            <table>
@@ -789,7 +789,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_borderWidth
         */
-        public static final int fl_FlatEditText_fl_borderWidth = 0;
+        public static int fl_FlatEditText_fl_borderWidth = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_cornerRadius}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -805,7 +805,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_cornerRadius
         */
-        public static final int fl_FlatEditText_fl_cornerRadius = 1;
+        public static int fl_FlatEditText_fl_cornerRadius = 1;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fieldStyle}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -829,7 +829,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_fieldStyle
         */
-        public static final int fl_FlatEditText_fl_fieldStyle = 7;
+        public static int fl_FlatEditText_fl_fieldStyle = 7;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontExtension}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -843,7 +843,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontExtension
         */
-        public static final int fl_FlatEditText_fl_fontExtension = 2;
+        public static int fl_FlatEditText_fl_fontExtension = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontFamily}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -857,7 +857,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontFamily
         */
-        public static final int fl_FlatEditText_fl_fontFamily = 3;
+        public static int fl_FlatEditText_fl_fontFamily = 3;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontWeight}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -871,7 +871,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontWeight
         */
-        public static final int fl_FlatEditText_fl_fontWeight = 4;
+        public static int fl_FlatEditText_fl_fontWeight = 4;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_textAppearance}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -895,7 +895,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_textAppearance
         */
-        public static final int fl_FlatEditText_fl_textAppearance = 5;
+        public static int fl_FlatEditText_fl_textAppearance = 5;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatEditText} array.
@@ -905,7 +905,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatEditText_fl_theme = 6;
+        public static int fl_FlatEditText_fl_theme = 6;
         /** Attributes that can be used with a fl_FlatRadioButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -947,7 +947,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_borderWidth
         */
-        public static final int fl_FlatRadioButton_fl_borderWidth = 0;
+        public static int fl_FlatRadioButton_fl_borderWidth = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_dotMargin}
           attribute's value can be found in the {@link #fl_FlatRadioButton} array.
@@ -963,7 +963,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_dotMargin
         */
-        public static final int fl_FlatRadioButton_fl_dotMargin = 1;
+        public static int fl_FlatRadioButton_fl_dotMargin = 1;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontExtension}
           attribute's value can be found in the {@link #fl_FlatRadioButton} array.
@@ -977,7 +977,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontExtension
         */
-        public static final int fl_FlatRadioButton_fl_fontExtension = 2;
+        public static int fl_FlatRadioButton_fl_fontExtension = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontFamily}
           attribute's value can be found in the {@link #fl_FlatRadioButton} array.
@@ -991,7 +991,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontFamily
         */
-        public static final int fl_FlatRadioButton_fl_fontFamily = 3;
+        public static int fl_FlatRadioButton_fl_fontFamily = 3;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontWeight}
           attribute's value can be found in the {@link #fl_FlatRadioButton} array.
@@ -1005,7 +1005,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontWeight
         */
-        public static final int fl_FlatRadioButton_fl_fontWeight = 4;
+        public static int fl_FlatRadioButton_fl_fontWeight = 4;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_size}
           attribute's value can be found in the {@link #fl_FlatRadioButton} array.
@@ -1021,7 +1021,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_size
         */
-        public static final int fl_FlatRadioButton_fl_size = 5;
+        public static int fl_FlatRadioButton_fl_size = 5;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatRadioButton} array.
@@ -1031,7 +1031,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatRadioButton_fl_theme = 6;
+        public static int fl_FlatRadioButton_fl_theme = 6;
         /** Attributes that can be used with a fl_FlatSeekBar.
            <p>Includes the following attributes:</p>
            <table>
@@ -1062,7 +1062,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_size
         */
-        public static final int fl_FlatSeekBar_fl_size = 0;
+        public static int fl_FlatSeekBar_fl_size = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatSeekBar} array.
@@ -1072,7 +1072,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatSeekBar_fl_theme = 1;
+        public static int fl_FlatSeekBar_fl_theme = 1;
         /** Attributes that can be used with a fl_FlatTextView.
            <p>Includes the following attributes:</p>
            <table>
@@ -1128,7 +1128,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_backgroundColor
         */
-        public static final int fl_FlatTextView_fl_backgroundColor = 7;
+        public static int fl_FlatTextView_fl_backgroundColor = 7;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_borderWidth}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1144,7 +1144,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_borderWidth
         */
-        public static final int fl_FlatTextView_fl_borderWidth = 0;
+        public static int fl_FlatTextView_fl_borderWidth = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_cornerRadius}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1160,7 +1160,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_cornerRadius
         */
-        public static final int fl_FlatTextView_fl_cornerRadius = 1;
+        public static int fl_FlatTextView_fl_cornerRadius = 1;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_customBackgroundColor}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1175,7 +1175,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_customBackgroundColor
         */
-        public static final int fl_FlatTextView_fl_customBackgroundColor = 8;
+        public static int fl_FlatTextView_fl_customBackgroundColor = 8;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontExtension}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1189,7 +1189,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontExtension
         */
-        public static final int fl_FlatTextView_fl_fontExtension = 2;
+        public static int fl_FlatTextView_fl_fontExtension = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontFamily}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1203,7 +1203,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontFamily
         */
-        public static final int fl_FlatTextView_fl_fontFamily = 3;
+        public static int fl_FlatTextView_fl_fontFamily = 3;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_fontWeight}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1217,7 +1217,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_fontWeight
         */
-        public static final int fl_FlatTextView_fl_fontWeight = 4;
+        public static int fl_FlatTextView_fl_fontWeight = 4;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_textColor}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1242,7 +1242,7 @@ containing a value of this type.
 </table>
           @attr name com.cengalabs.flatui:fl_textColor
         */
-        public static final int fl_FlatTextView_fl_textColor = 6;
+        public static int fl_FlatTextView_fl_textColor = 6;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatTextView} array.
@@ -1252,7 +1252,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatTextView_fl_theme = 5;
+        public static int fl_FlatTextView_fl_theme = 5;
         /** Attributes that can be used with a fl_FlatToggleButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -1285,7 +1285,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_cornerRadius
         */
-        public static final int fl_FlatToggleButton_fl_cornerRadius = 0;
+        public static int fl_FlatToggleButton_fl_cornerRadius = 0;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_space}
           attribute's value can be found in the {@link #fl_FlatToggleButton} array.
@@ -1301,7 +1301,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.cengalabs.flatui:fl_space
         */
-        public static final int fl_FlatToggleButton_fl_space = 2;
+        public static int fl_FlatToggleButton_fl_space = 2;
         /**
           <p>This symbol is the offset where the {@link com.cengalabs.flatui.R.attr#fl_theme}
           attribute's value can be found in the {@link #fl_FlatToggleButton} array.
@@ -1311,6 +1311,6 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.cengalabs.flatui:fl_theme
         */
-        public static final int fl_FlatToggleButton_fl_theme = 1;
+        public static int fl_FlatToggleButton_fl_theme = 1;
     };
 }

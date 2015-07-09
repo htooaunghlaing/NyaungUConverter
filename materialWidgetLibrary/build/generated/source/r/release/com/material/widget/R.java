@@ -563,50 +563,50 @@ containing a value of this type.
         public static int track_slider_tint_color=0x7f04001c;
     }
     public static final class dimen {
-        public static int checkbox_border_width=0x7f060000;
-        public static int checkbox_corner_radius=0x7f060001;
-        public static int checkbox_height=0x7f060002;
-        public static int checkbox_mark_bottom_padding=0x7f060003;
-        public static int checkbox_mark_left_right_padding=0x7f060004;
-        public static int checkbox_mark_top_padding=0x7f060005;
-        public static int checkbox_mark_width=0x7f060006;
-        public static int checkbox_ripple_radius=0x7f060007;
-        public static int checkbox_thumb_size=0x7f060008;
-        public static int checkbox_width=0x7f060009;
-        public static int circle_button_height=0x7f06000a;
-        public static int circle_button_width=0x7f06000b;
-        public static int circular_progress_border_width=0x7f06000c;
-        public static int circular_progress_large_size=0x7f06000d;
-        public static int circular_progress_normal_size=0x7f06000e;
-        public static int circular_progress_small_size=0x7f06000f;
-        public static int floating_edit_text_underline_height=0x7f060010;
-        public static int floating_edit_text_underline_highlighted_height=0x7f060011;
-        public static int linear_progress_line_width=0x7f060012;
-        public static int paper_button_corner_radius=0x7f060013;
-        public static int paper_padding=0x7f060014;
-        public static int paper_text_size=0x7f060015;
-        public static int radio_border_radius=0x7f060016;
-        public static int radio_height=0x7f060017;
-        public static int radio_ripple_radius=0x7f060018;
-        public static int radio_stroke_width=0x7f060019;
-        public static int radio_thumb_radius=0x7f06001a;
-        public static int radio_width=0x7f06001b;
-        public static int slider_bar_height=0x7f06001c;
-        public static int slider_thumb_border_width=0x7f06001d;
-        public static int slider_thumb_radius=0x7f06001e;
-        public static int slider_thumb_ripple_radius=0x7f06001f;
-        public static int switch_height=0x7f060020;
-        public static int switch_ripple_max_radius=0x7f060021;
-        public static int switch_stroke_width=0x7f060022;
-        public static int switch_thumb_radius=0x7f060023;
-        public static int switch_track_width=0x7f060024;
-        public static int switch_width=0x7f060025;
-        public static int tab_nav_button_width=0x7f060026;
-        public static int tab_text_size=0x7f060027;
-        public static int tab_underline_height=0x7f060028;
-        public static int track_slider_bar_height=0x7f060029;
-        public static int track_slider_ripple_radius=0x7f06002a;
-        public static int track_slider_thumb_radius=0x7f06002b;
+        public static int checkbox_border_width=0x7f050000;
+        public static int checkbox_corner_radius=0x7f050001;
+        public static int checkbox_height=0x7f050002;
+        public static int checkbox_mark_bottom_padding=0x7f050003;
+        public static int checkbox_mark_left_right_padding=0x7f050004;
+        public static int checkbox_mark_top_padding=0x7f050005;
+        public static int checkbox_mark_width=0x7f050006;
+        public static int checkbox_ripple_radius=0x7f050007;
+        public static int checkbox_thumb_size=0x7f050008;
+        public static int checkbox_width=0x7f050009;
+        public static int circle_button_height=0x7f05000a;
+        public static int circle_button_width=0x7f05000b;
+        public static int circular_progress_border_width=0x7f05000c;
+        public static int circular_progress_large_size=0x7f05000d;
+        public static int circular_progress_normal_size=0x7f05000e;
+        public static int circular_progress_small_size=0x7f05000f;
+        public static int floating_edit_text_underline_height=0x7f050010;
+        public static int floating_edit_text_underline_highlighted_height=0x7f050011;
+        public static int linear_progress_line_width=0x7f050012;
+        public static int paper_button_corner_radius=0x7f050013;
+        public static int paper_padding=0x7f050014;
+        public static int paper_text_size=0x7f050015;
+        public static int radio_border_radius=0x7f050016;
+        public static int radio_height=0x7f050017;
+        public static int radio_ripple_radius=0x7f050018;
+        public static int radio_stroke_width=0x7f050019;
+        public static int radio_thumb_radius=0x7f05001a;
+        public static int radio_width=0x7f05001b;
+        public static int slider_bar_height=0x7f05001c;
+        public static int slider_thumb_border_width=0x7f05001d;
+        public static int slider_thumb_radius=0x7f05001e;
+        public static int slider_thumb_ripple_radius=0x7f05001f;
+        public static int switch_height=0x7f050020;
+        public static int switch_ripple_max_radius=0x7f050021;
+        public static int switch_stroke_width=0x7f050022;
+        public static int switch_thumb_radius=0x7f050023;
+        public static int switch_track_width=0x7f050024;
+        public static int switch_width=0x7f050025;
+        public static int tab_nav_button_width=0x7f050026;
+        public static int tab_text_size=0x7f050027;
+        public static int tab_underline_height=0x7f050028;
+        public static int track_slider_bar_height=0x7f050029;
+        public static int track_slider_ripple_radius=0x7f05002a;
+        public static int track_slider_thumb_radius=0x7f05002b;
     }
     public static final class drawable {
         public static int ic_backward=0x7f020000;
@@ -614,17 +614,17 @@ containing a value of this type.
         public static int ic_launcher=0x7f020002;
     }
     public static final class id {
-        public static int Large=0x7f050002;
-        public static int Normal=0x7f050001;
-        public static int Small=0x7f050000;
+        public static int Large=0x7f080000;
+        public static int Normal=0x7f080001;
+        public static int Small=0x7f080002;
     }
     public static final class integer {
-        public static int circular_progress_max=0x7f070000;
-        public static int linear_progress_max=0x7f070001;
-        public static int tab_max_column=0x7f070002;
+        public static int circular_progress_max=0x7f060000;
+        public static int linear_progress_max=0x7f060001;
+        public static int tab_max_column=0x7f060002;
     }
     public static final class string {
-        public static int app_name=0x7f080000;
+        public static int app_name=0x7f070000;
     }
     public static final class styleable {
         /** Attributes that can be used with a CheckBox.
@@ -656,7 +656,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:checkbox_checked_color
         */
-        public static final int CheckBox_checkbox_checked_color = 1;
+        public static int CheckBox_checkbox_checked_color = 1;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#checkbox_color}
           attribute's value can be found in the {@link #CheckBox} array.
@@ -671,7 +671,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:checkbox_color
         */
-        public static final int CheckBox_checkbox_color = 0;
+        public static int CheckBox_checkbox_color = 0;
         /** Attributes that can be used with a CircleButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -710,7 +710,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circle_color
         */
-        public static final int CircleButton_circle_color = 1;
+        public static int CircleButton_circle_color = 1;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circle_icon}
           attribute's value can be found in the {@link #CircleButton} array.
@@ -720,7 +720,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.material.widget:circle_icon
         */
-        public static final int CircleButton_circle_icon = 0;
+        public static int CircleButton_circle_icon = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circle_shadow_color}
           attribute's value can be found in the {@link #CircleButton} array.
@@ -735,7 +735,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circle_shadow_color
         */
-        public static final int CircleButton_circle_shadow_color = 5;
+        public static int CircleButton_circle_shadow_color = 5;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circle_shadow_offset_x}
           attribute's value can be found in the {@link #CircleButton} array.
@@ -749,7 +749,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circle_shadow_offset_x
         */
-        public static final int CircleButton_circle_shadow_offset_x = 3;
+        public static int CircleButton_circle_shadow_offset_x = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circle_shadow_offset_y}
           attribute's value can be found in the {@link #CircleButton} array.
@@ -763,7 +763,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circle_shadow_offset_y
         */
-        public static final int CircleButton_circle_shadow_offset_y = 4;
+        public static int CircleButton_circle_shadow_offset_y = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circle_shadow_radius}
           attribute's value can be found in the {@link #CircleButton} array.
@@ -777,7 +777,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circle_shadow_radius
         */
-        public static final int CircleButton_circle_shadow_radius = 2;
+        public static int CircleButton_circle_shadow_radius = 2;
         /** Attributes that can be used with a CircularProgress.
            <p>Includes the following attributes:</p>
            <table>
@@ -817,7 +817,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circular_progress_border_width
         */
-        public static final int CircularProgress_circular_progress_border_width = 2;
+        public static int CircularProgress_circular_progress_border_width = 2;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circular_progress_color}
           attribute's value can be found in the {@link #CircularProgress} array.
@@ -832,7 +832,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circular_progress_color
         */
-        public static final int CircularProgress_circular_progress_color = 0;
+        public static int CircularProgress_circular_progress_color = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circular_progress_duration}
           attribute's value can be found in the {@link #CircularProgress} array.
@@ -846,7 +846,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circular_progress_duration
         */
-        public static final int CircularProgress_circular_progress_duration = 5;
+        public static int CircularProgress_circular_progress_duration = 5;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circular_progress_indeterminate}
           attribute's value can be found in the {@link #CircularProgress} array.
@@ -860,7 +860,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circular_progress_indeterminate
         */
-        public static final int CircularProgress_circular_progress_indeterminate = 3;
+        public static int CircularProgress_circular_progress_indeterminate = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circular_progress_max}
           attribute's value can be found in the {@link #CircularProgress} array.
@@ -874,7 +874,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:circular_progress_max
         */
-        public static final int CircularProgress_circular_progress_max = 4;
+        public static int CircularProgress_circular_progress_max = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#circular_progress_size}
           attribute's value can be found in the {@link #CircularProgress} array.
@@ -892,7 +892,7 @@ containing a value of this type.
 </table>
           @attr name com.material.widget:circular_progress_size
         */
-        public static final int CircularProgress_circular_progress_size = 1;
+        public static int CircularProgress_circular_progress_size = 1;
         /** Attributes that can be used with a FloatingEditText.
            <p>Includes the following attributes:</p>
            <table>
@@ -931,7 +931,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:floating_edit_text_color
         */
-        public static final int FloatingEditText_floating_edit_text_color = 1;
+        public static int FloatingEditText_floating_edit_text_color = 1;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#floating_edit_text_error_color}
           attribute's value can be found in the {@link #FloatingEditText} array.
@@ -946,7 +946,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:floating_edit_text_error_color
         */
-        public static final int FloatingEditText_floating_edit_text_error_color = 3;
+        public static int FloatingEditText_floating_edit_text_error_color = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#floating_edit_text_highlighted_color}
           attribute's value can be found in the {@link #FloatingEditText} array.
@@ -961,7 +961,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:floating_edit_text_highlighted_color
         */
-        public static final int FloatingEditText_floating_edit_text_highlighted_color = 2;
+        public static int FloatingEditText_floating_edit_text_highlighted_color = 2;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#floating_edit_text_hint_scale}
           attribute's value can be found in the {@link #FloatingEditText} array.
@@ -975,7 +975,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:floating_edit_text_hint_scale
         */
-        public static final int FloatingEditText_floating_edit_text_hint_scale = 0;
+        public static int FloatingEditText_floating_edit_text_hint_scale = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#floating_edit_text_underline_height}
           attribute's value can be found in the {@link #FloatingEditText} array.
@@ -991,7 +991,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:floating_edit_text_underline_height
         */
-        public static final int FloatingEditText_floating_edit_text_underline_height = 4;
+        public static int FloatingEditText_floating_edit_text_underline_height = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#floating_edit_text_underline_highlighted_height}
           attribute's value can be found in the {@link #FloatingEditText} array.
@@ -1007,7 +1007,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:floating_edit_text_underline_highlighted_height
         */
-        public static final int FloatingEditText_floating_edit_text_underline_highlighted_height = 5;
+        public static int FloatingEditText_floating_edit_text_underline_highlighted_height = 5;
         /** Attributes that can be used with a LinearProgress.
            <p>Includes the following attributes:</p>
            <table>
@@ -1041,7 +1041,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:linear_progress_color
         */
-        public static final int LinearProgress_linear_progress_color = 0;
+        public static int LinearProgress_linear_progress_color = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#linear_progress_duration}
           attribute's value can be found in the {@link #LinearProgress} array.
@@ -1055,7 +1055,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:linear_progress_duration
         */
-        public static final int LinearProgress_linear_progress_duration = 3;
+        public static int LinearProgress_linear_progress_duration = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#linear_progress_line_width}
           attribute's value can be found in the {@link #LinearProgress} array.
@@ -1071,7 +1071,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:linear_progress_line_width
         */
-        public static final int LinearProgress_linear_progress_line_width = 1;
+        public static int LinearProgress_linear_progress_line_width = 1;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#linear_progress_max}
           attribute's value can be found in the {@link #LinearProgress} array.
@@ -1085,7 +1085,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:linear_progress_max
         */
-        public static final int LinearProgress_linear_progress_max = 2;
+        public static int LinearProgress_linear_progress_max = 2;
         /** Attributes that can be used with a PaperButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -1133,7 +1133,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_color
         */
-        public static final int PaperButton_paper_color = 4;
+        public static int PaperButton_paper_color = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_corner_radius}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1149,7 +1149,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_corner_radius
         */
-        public static final int PaperButton_paper_corner_radius = 5;
+        public static int PaperButton_paper_corner_radius = 5;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_font}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1163,7 +1163,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_font
         */
-        public static final int PaperButton_paper_font = 3;
+        public static int PaperButton_paper_font = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_shadow_color}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1178,7 +1178,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_shadow_color
         */
-        public static final int PaperButton_paper_shadow_color = 9;
+        public static int PaperButton_paper_shadow_color = 9;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_shadow_offset_x}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1192,7 +1192,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_shadow_offset_x
         */
-        public static final int PaperButton_paper_shadow_offset_x = 7;
+        public static int PaperButton_paper_shadow_offset_x = 7;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_shadow_offset_y}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1206,7 +1206,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_shadow_offset_y
         */
-        public static final int PaperButton_paper_shadow_offset_y = 8;
+        public static int PaperButton_paper_shadow_offset_y = 8;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_shadow_radius}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1220,7 +1220,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_shadow_radius
         */
-        public static final int PaperButton_paper_shadow_radius = 6;
+        public static int PaperButton_paper_shadow_radius = 6;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_text}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1234,7 +1234,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_text
         */
-        public static final int PaperButton_paper_text = 0;
+        public static int PaperButton_paper_text = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_text_color}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1249,7 +1249,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_text_color
         */
-        public static final int PaperButton_paper_text_color = 2;
+        public static int PaperButton_paper_text_color = 2;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#paper_text_size}
           attribute's value can be found in the {@link #PaperButton} array.
@@ -1265,7 +1265,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:paper_text_size
         */
-        public static final int PaperButton_paper_text_size = 1;
+        public static int PaperButton_paper_text_size = 1;
         /** Attributes that can be used with a RadioButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -1295,7 +1295,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:radio_checked_color
         */
-        public static final int RadioButton_radio_checked_color = 1;
+        public static int RadioButton_radio_checked_color = 1;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#radio_color}
           attribute's value can be found in the {@link #RadioButton} array.
@@ -1310,7 +1310,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:radio_color
         */
-        public static final int RadioButton_radio_color = 0;
+        public static int RadioButton_radio_color = 0;
         /** Attributes that can be used with a Slider.
            <p>Includes the following attributes:</p>
            <table>
@@ -1354,7 +1354,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_bar_height
         */
-        public static final int Slider_slider_bar_height = 5;
+        public static int Slider_slider_bar_height = 5;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_color}
           attribute's value can be found in the {@link #Slider} array.
@@ -1369,7 +1369,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_color
         */
-        public static final int Slider_slider_color = 0;
+        public static int Slider_slider_color = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_max}
           attribute's value can be found in the {@link #Slider} array.
@@ -1383,7 +1383,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_max
         */
-        public static final int Slider_slider_max = 6;
+        public static int Slider_slider_max = 6;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_progress}
           attribute's value can be found in the {@link #Slider} array.
@@ -1397,7 +1397,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_progress
         */
-        public static final int Slider_slider_progress = 7;
+        public static int Slider_slider_progress = 7;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_ripple_color}
           attribute's value can be found in the {@link #Slider} array.
@@ -1412,7 +1412,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_ripple_color
         */
-        public static final int Slider_slider_ripple_color = 2;
+        public static int Slider_slider_ripple_color = 2;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_ripple_radius}
           attribute's value can be found in the {@link #Slider} array.
@@ -1428,7 +1428,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_ripple_radius
         */
-        public static final int Slider_slider_ripple_radius = 4;
+        public static int Slider_slider_ripple_radius = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_thumb_radius}
           attribute's value can be found in the {@link #Slider} array.
@@ -1444,7 +1444,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_thumb_radius
         */
-        public static final int Slider_slider_thumb_radius = 3;
+        public static int Slider_slider_thumb_radius = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#slider_tint_color}
           attribute's value can be found in the {@link #Slider} array.
@@ -1459,7 +1459,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_tint_color
         */
-        public static final int Slider_slider_tint_color = 1;
+        public static int Slider_slider_tint_color = 1;
         /** Attributes that can be used with a TabIndicator.
            <p>Includes the following attributes:</p>
            <table>
@@ -1501,7 +1501,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_max_column
         */
-        public static final int TabIndicator_tab_max_column = 7;
+        public static int TabIndicator_tab_max_column = 7;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_ripple_color}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1516,7 +1516,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_ripple_color
         */
-        public static final int TabIndicator_tab_ripple_color = 4;
+        public static int TabIndicator_tab_ripple_color = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_text_color}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1531,7 +1531,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_text_color
         */
-        public static final int TabIndicator_tab_text_color = 1;
+        public static int TabIndicator_tab_text_color = 1;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_text_disabled_color}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1546,7 +1546,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_text_disabled_color
         */
-        public static final int TabIndicator_tab_text_disabled_color = 3;
+        public static int TabIndicator_tab_text_disabled_color = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_text_selected_color}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1561,7 +1561,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_text_selected_color
         */
-        public static final int TabIndicator_tab_text_selected_color = 2;
+        public static int TabIndicator_tab_text_selected_color = 2;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_text_size}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1577,7 +1577,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_text_size
         */
-        public static final int TabIndicator_tab_text_size = 0;
+        public static int TabIndicator_tab_text_size = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_underline_color}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1592,7 +1592,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_underline_color
         */
-        public static final int TabIndicator_tab_underline_color = 5;
+        public static int TabIndicator_tab_underline_color = 5;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#tab_underline_height}
           attribute's value can be found in the {@link #TabIndicator} array.
@@ -1608,7 +1608,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:tab_underline_height
         */
-        public static final int TabIndicator_tab_underline_height = 6;
+        public static int TabIndicator_tab_underline_height = 6;
         /** Attributes that can be used with a TrackSlider.
            <p>Includes the following attributes:</p>
            <table>
@@ -1648,7 +1648,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:slider_thumb_border_width
         */
-        public static final int TrackSlider_slider_thumb_border_width = 5;
+        public static int TrackSlider_slider_thumb_border_width = 5;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#track_slider_bar_height}
           attribute's value can be found in the {@link #TrackSlider} array.
@@ -1664,7 +1664,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:track_slider_bar_height
         */
-        public static final int TrackSlider_track_slider_bar_height = 4;
+        public static int TrackSlider_track_slider_bar_height = 4;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#track_slider_color}
           attribute's value can be found in the {@link #TrackSlider} array.
@@ -1679,7 +1679,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:track_slider_color
         */
-        public static final int TrackSlider_track_slider_color = 0;
+        public static int TrackSlider_track_slider_color = 0;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#track_slider_ripple_radius}
           attribute's value can be found in the {@link #TrackSlider} array.
@@ -1695,7 +1695,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:track_slider_ripple_radius
         */
-        public static final int TrackSlider_track_slider_ripple_radius = 3;
+        public static int TrackSlider_track_slider_ripple_radius = 3;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#track_slider_thumb_radius}
           attribute's value can be found in the {@link #TrackSlider} array.
@@ -1711,7 +1711,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:track_slider_thumb_radius
         */
-        public static final int TrackSlider_track_slider_thumb_radius = 2;
+        public static int TrackSlider_track_slider_thumb_radius = 2;
         /**
           <p>This symbol is the offset where the {@link com.material.widget.R.attr#track_slider_tint_color}
           attribute's value can be found in the {@link #TrackSlider} array.
@@ -1726,6 +1726,6 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.material.widget:track_slider_tint_color
         */
-        public static final int TrackSlider_track_slider_tint_color = 1;
+        public static int TrackSlider_track_slider_tint_color = 1;
     };
 }

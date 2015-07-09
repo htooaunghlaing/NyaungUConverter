@@ -102,50 +102,50 @@ public final class R {
 		public static final int track_slider_tint_color = 0x7f04001c;
 	}
 	public static final class dimen {
-		public static final int checkbox_border_width = 0x7f060000;
-		public static final int checkbox_corner_radius = 0x7f060001;
-		public static final int checkbox_height = 0x7f060002;
-		public static final int checkbox_mark_bottom_padding = 0x7f060003;
-		public static final int checkbox_mark_left_right_padding = 0x7f060004;
-		public static final int checkbox_mark_top_padding = 0x7f060005;
-		public static final int checkbox_mark_width = 0x7f060006;
-		public static final int checkbox_ripple_radius = 0x7f060007;
-		public static final int checkbox_thumb_size = 0x7f060008;
-		public static final int checkbox_width = 0x7f060009;
-		public static final int circle_button_height = 0x7f06000a;
-		public static final int circle_button_width = 0x7f06000b;
-		public static final int circular_progress_border_width = 0x7f06000c;
-		public static final int circular_progress_large_size = 0x7f06000d;
-		public static final int circular_progress_normal_size = 0x7f06000e;
-		public static final int circular_progress_small_size = 0x7f06000f;
-		public static final int floating_edit_text_underline_height = 0x7f060010;
-		public static final int floating_edit_text_underline_highlighted_height = 0x7f060011;
-		public static final int linear_progress_line_width = 0x7f060012;
-		public static final int paper_button_corner_radius = 0x7f060013;
-		public static final int paper_padding = 0x7f060014;
-		public static final int paper_text_size = 0x7f060015;
-		public static final int radio_border_radius = 0x7f060016;
-		public static final int radio_height = 0x7f060017;
-		public static final int radio_ripple_radius = 0x7f060018;
-		public static final int radio_stroke_width = 0x7f060019;
-		public static final int radio_thumb_radius = 0x7f06001a;
-		public static final int radio_width = 0x7f06001b;
-		public static final int slider_bar_height = 0x7f06001c;
-		public static final int slider_thumb_border_width = 0x7f06001d;
-		public static final int slider_thumb_radius = 0x7f06001e;
-		public static final int slider_thumb_ripple_radius = 0x7f06001f;
-		public static final int switch_height = 0x7f060020;
-		public static final int switch_ripple_max_radius = 0x7f060021;
-		public static final int switch_stroke_width = 0x7f060022;
-		public static final int switch_thumb_radius = 0x7f060023;
-		public static final int switch_track_width = 0x7f060024;
-		public static final int switch_width = 0x7f060025;
-		public static final int tab_nav_button_width = 0x7f060026;
-		public static final int tab_text_size = 0x7f060027;
-		public static final int tab_underline_height = 0x7f060028;
-		public static final int track_slider_bar_height = 0x7f060029;
-		public static final int track_slider_ripple_radius = 0x7f06002a;
-		public static final int track_slider_thumb_radius = 0x7f06002b;
+		public static final int checkbox_border_width = 0x7f050000;
+		public static final int checkbox_corner_radius = 0x7f050001;
+		public static final int checkbox_height = 0x7f050002;
+		public static final int checkbox_mark_bottom_padding = 0x7f050003;
+		public static final int checkbox_mark_left_right_padding = 0x7f050004;
+		public static final int checkbox_mark_top_padding = 0x7f050005;
+		public static final int checkbox_mark_width = 0x7f050006;
+		public static final int checkbox_ripple_radius = 0x7f050007;
+		public static final int checkbox_thumb_size = 0x7f050008;
+		public static final int checkbox_width = 0x7f050009;
+		public static final int circle_button_height = 0x7f05000a;
+		public static final int circle_button_width = 0x7f05000b;
+		public static final int circular_progress_border_width = 0x7f05000c;
+		public static final int circular_progress_large_size = 0x7f05000d;
+		public static final int circular_progress_normal_size = 0x7f05000e;
+		public static final int circular_progress_small_size = 0x7f05000f;
+		public static final int floating_edit_text_underline_height = 0x7f050010;
+		public static final int floating_edit_text_underline_highlighted_height = 0x7f050011;
+		public static final int linear_progress_line_width = 0x7f050012;
+		public static final int paper_button_corner_radius = 0x7f050013;
+		public static final int paper_padding = 0x7f050014;
+		public static final int paper_text_size = 0x7f050015;
+		public static final int radio_border_radius = 0x7f050016;
+		public static final int radio_height = 0x7f050017;
+		public static final int radio_ripple_radius = 0x7f050018;
+		public static final int radio_stroke_width = 0x7f050019;
+		public static final int radio_thumb_radius = 0x7f05001a;
+		public static final int radio_width = 0x7f05001b;
+		public static final int slider_bar_height = 0x7f05001c;
+		public static final int slider_thumb_border_width = 0x7f05001d;
+		public static final int slider_thumb_radius = 0x7f05001e;
+		public static final int slider_thumb_ripple_radius = 0x7f05001f;
+		public static final int switch_height = 0x7f050020;
+		public static final int switch_ripple_max_radius = 0x7f050021;
+		public static final int switch_stroke_width = 0x7f050022;
+		public static final int switch_thumb_radius = 0x7f050023;
+		public static final int switch_track_width = 0x7f050024;
+		public static final int switch_width = 0x7f050025;
+		public static final int tab_nav_button_width = 0x7f050026;
+		public static final int tab_text_size = 0x7f050027;
+		public static final int tab_underline_height = 0x7f050028;
+		public static final int track_slider_bar_height = 0x7f050029;
+		public static final int track_slider_ripple_radius = 0x7f05002a;
+		public static final int track_slider_thumb_radius = 0x7f05002b;
 	}
 	public static final class drawable {
 		public static final int ic_backward = 0x7f020000;
@@ -153,17 +153,17 @@ public final class R {
 		public static final int ic_launcher = 0x7f020002;
 	}
 	public static final class id {
-		public static final int Large = 0x7f050002;
-		public static final int Normal = 0x7f050001;
-		public static final int Small = 0x7f050000;
+		public static final int Large = 0x7f080000;
+		public static final int Normal = 0x7f080001;
+		public static final int Small = 0x7f080002;
 	}
 	public static final class integer {
-		public static final int circular_progress_max = 0x7f070000;
-		public static final int linear_progress_max = 0x7f070001;
-		public static final int tab_max_column = 0x7f070002;
+		public static final int circular_progress_max = 0x7f060000;
+		public static final int linear_progress_max = 0x7f060001;
+		public static final int tab_max_column = 0x7f060002;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f080000;
+		public static final int app_name = 0x7f070000;
 	}
 	public static final class styleable {
 		public static final int[] CheckBox = { 0x7f010000, 0x7f010001 };

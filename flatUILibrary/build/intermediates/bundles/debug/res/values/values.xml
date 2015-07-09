@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/flatUILibrary/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/flatUILibrary/src/main/res/values/colors.xml -->
     <eat-comment/>
     <integer-array name="blood">
         <item>@color/blood_darker</item>
@@ -74,7 +74,7 @@
         <item>@color/snow_primary</item>
         <item>@color/snow_light</item>
     </integer-array>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/flatUILibrary/src/main/res/values/attrs.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/flatUILibrary/src/main/res/values/attrs.xml -->
     <eat-comment/>
     <attr format="dimension" name="fl_borderWidth"/>
     <attr format="dimension" name="fl_cornerRadius"/>
@@ -94,7 +94,7 @@
         <enum name="fl_ease" value="1"/>
         <enum name="fl_ripple" value="2"/>
     </attr>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/flatUILibrary/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/flatUILibrary/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="blood_dark">#a63124</color>
     <color name="blood_darker">#732219</color>
@@ -152,7 +152,7 @@
     <declare-styleable name="fl_FlatSeekBar"><attr name="fl_theme"/><attr name="fl_size"/></declare-styleable>
     <declare-styleable name="fl_FlatTextView"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_textColor"><enum name="fl_darker" value="0"/><enum name="fl_dark" value="1"/><enum name="fl_main" value="2"/><enum name="fl_light" value="3"/></attr><attr format="integer" name="fl_backgroundColor"><enum name="fl_darker" value="0"/><enum name="fl_dark" value="1"/><enum name="fl_main" value="2"/><enum name="fl_light" value="3"/></attr><attr format="color" name="fl_customBackgroundColor"/></declare-styleable>
     <declare-styleable name="fl_FlatToggleButton"><attr name="fl_theme"/><attr name="fl_cornerRadius"/><attr format="dimension" name="fl_space"/></declare-styleable>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/flatUILibrary/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/flatUILibrary/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">FlatUI Kit</string>
 </resources>

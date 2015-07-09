@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/materialWidgetLibrary/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/materialWidgetLibrary/src/main/res/values/default.xml -->
     <eat-comment/>
     <bool name="circular_progress_indeterminate">true</bool>
     <color name="checkbox_checked_color">#55b03d</color>
@@ -89,7 +89,7 @@
     <integer name="circular_progress_max">100</integer>
     <integer name="linear_progress_max">100</integer>
     <integer name="tab_max_column">4</integer>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/materialWidgetLibrary/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/materialWidgetLibrary/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">library</string>
 </resources>

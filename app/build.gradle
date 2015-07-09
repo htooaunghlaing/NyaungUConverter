@@ -23,7 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:22.0.0'
     compile project(':flatUILibrary')
-    compile project(':materialDesign')
+//    compile project(':materialDesign')
     compile project(':materialWidgetLibrary')
     compile "com.mixpanel.android:mixpanel-android:4.6.0"
     compile "com.google.android.gms:play-services:3.1+"

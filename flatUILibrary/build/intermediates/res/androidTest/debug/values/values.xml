@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/flatUILibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/flatUILibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <integer-array name="blood">
         <item>@color/blood_darker</item>

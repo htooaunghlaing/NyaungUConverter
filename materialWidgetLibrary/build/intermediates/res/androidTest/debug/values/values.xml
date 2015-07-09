@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/htooaunghlaing/StudioProjects/NyaungUConverter/materialWidgetLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/Users/yelinaung/work/myanmar/NyaungUConverter/materialWidgetLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <bool name="circular_progress_indeterminate">true</bool>
     <color name="checkbox_checked_color">#55b03d</color>

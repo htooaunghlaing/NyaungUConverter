@@ -1,4 +1,4 @@
 include ':app'
 include ':flatUILibrary'
-include ':materialDesign'
+//include ':materialDesign'
 include ':materialWidgetLibrary'
