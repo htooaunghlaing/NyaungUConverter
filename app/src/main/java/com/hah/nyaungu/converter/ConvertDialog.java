@@ -273,7 +273,7 @@ public class ConvertDialog extends Activity {
 
     private void changeZawgyi(String str) {
         txtOutput.setTypeface(zawgyiFace);
-        tmpTextZG = Detector.uni2zg(str);
+        tmpTextZG = PaytanConverter.uni512zg1(str);
 
         int size = tmpTextZG.length();
 
@@ -303,7 +303,7 @@ public class ConvertDialog extends Activity {
     protected void changeUni(String str) {
 
         txtOutput.setTypeface(uniFace);
-        tmpTextUNI = Detector.zg2uni(str);
+        tmpTextUNI = PaytanConverter.zg12uni51(str);
         // txtOutput.setText(tmpText);
 
         int size = tmpTextUNI.length();
