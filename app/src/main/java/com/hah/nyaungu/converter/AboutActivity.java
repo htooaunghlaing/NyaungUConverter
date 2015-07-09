@@ -33,7 +33,7 @@ public class AboutActivity extends ActionBarActivity {
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mToolbar);
-        getSupportActionBar().setTitle("About Nyaung U Detector");
+        getSupportActionBar().setTitle("About Nyaung U Converter");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         getIDs();
